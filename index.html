@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TL26B tvarkaraštis – kalendorius</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 24px 16px 40px; max-width: 520px; margin-inline: auto; line-height: 1.45; }
+  h1 { font-size: 1.35rem; margin: 0 0 4px; }
+  .sub { opacity: .7; margin: 0 0 22px; font-size: .95rem; }
+  a.btn { display: block; text-align: center; text-decoration: none; padding: 16px 18px; border-radius: 14px; font-weight: 600; font-size: 1.05rem; margin: 0 0 12px; color: #fff; background: #1a73e8; }
+  a.btn.alt { background: #2e7d32; }
+  .note { font-size: .9rem; opacity: .8; margin: 0 0 22px; }
+  .box { border: 1px solid rgba(128,128,128,.35); border-radius: 12px; padding: 12px 14px; margin-top: 18px; font-size: .9rem; }
+  code { word-break: break-all; font-size: .85rem; }
+  button { margin-top: 8px; padding: 8px 12px; border-radius: 8px; border: 1px solid rgba(128,128,128,.5); background: transparent; color: inherit; font-size: .9rem; }
+  ol { padding-left: 20px; }
+</style>
+</head>
+<body>
+<h1>VIKO TL26B · 1 pogrupis</h1>
+<p class="sub">Rudens semestras 2026–2027 · Statybos fakultetas · šaltinis: EduPage</p>
+
+<a class="btn" href="https://calendar.google.com/calendar/r?cid=webcal%3A%2F%2Fgytiskucher.github.io%2Fviko-tvarkarastis%2FVIKO_TL26B_1pogr_ruduo_2026.ics">📅 Prenumeruoti per Google Calendar<br><small style="font-weight:400">atsinaujina automatiškai · rodo ir Samsung Calendar</small></a>
+<p class="note">Google paklaus „Pridėti šį kalendorių?“ → <b>Pridėti</b>. Jei vietoj to atsidaro Google Calendar programėlė – atidaryk šį puslapį per Chrome ir įjunk „Darbalaukio svetainė“ (Desktop site). Telefone: Samsung Calendar → Tvarkyti kalendorius → įjungti „VIKO TL26B“.</p>
+
+<a class="btn alt" href="VIKO_TL26B_1pogr_ruduo_2026.ics" download="VIKO_TL26B_1pogr_ruduo_2026.ics">⬇️ Importuoti į Samsung Calendar<br><small style="font-weight:400">vienkartinis importas · be automatinių atnaujinimų</small></a>
+<p class="note">Atsisiuntus failą, atidaryk jį → pasirink <b>Calendar</b> → <b>Importuoti</b>. Pasikeitus tvarkaraščiui reikėtų ištrinti senus įrašus ir importuoti iš naujo.</p>
+
+<div class="box">
+  <div>Kalendoriaus nuoroda (rankiniam įvedimui: Google Calendar → Kiti kalendoriai → „+“ → Iš URL):</div>
+  <code id="url">https://gytiskucher.github.io/viko-tvarkarastis/VIKO_TL26B_1pogr_ruduo_2026.ics</code><br>
+  <button onclick="navigator.clipboard.writeText(document.getElementById('url').textContent).then(()=>{this.textContent='Nukopijuota ✓'})">Kopijuoti nuorodą</button>
+  <div style="margin-top:10px">Paskutinė EduPage patikra: <span id="chk">…</span></div>
+</div>
+
+<div class="box">
+  Kas viduje: 203 paskaitos (2026-09-14 – 2027-01-08), dėstytojai, auditorijos, 1/2 savaitė aprašyme; Kalėdų atostogos, sesija 01-11 – 01-24. Savaičių tvarka – pagal SF studijų grafiką (09-14 = 1 savaitė). Paskaitų laikas – SF (8:00–9:30 … 17:30–19:00).
+</div>
+
+<script>
+fetch('last_check.txt', {cache: 'no-store'}).then(r => r.text()).then(t => {
+  const d = new Date(t.trim());
+  document.getElementById('chk').textContent = isNaN(d) ? t.trim() : d.toLocaleString('lt-LT', {timeZone: 'Europe/Vilnius'});
+}).catch(() => { document.getElementById('chk').textContent = '–'; });
+</script>
+</body>
+</html>
