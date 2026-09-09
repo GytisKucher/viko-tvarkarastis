@@ -4,7 +4,13 @@ Turinys: EduPage reguliarus tvarkarastis (vikostf.edupage.org, JSON API).
 Savaiciu 1/2 tvarka: --parity grafikas (numatyta; "1 savaite" = savaite nuo 2026-08-31, kaip SF/EIF studiju grafikuose)
                      --parity edupage  (EduPage datuotas rodinys: 09-07 = "1 savaite")
 Semestro ribos - SF studiju grafikas 2026-2027.  Paleisti: py gen_ics_edupage.py [--alarm 15]"""
-import json, sys, os, io, hashlib, argparse, datetime as dt, urllib.request
+import json, sys, os, io, hashlib, argparse, datetime as dt, urllib.request, socket, time
+
+# GitHub Actions runneriai neturi IPv6 - verciam naudoti tik IPv4
+_getaddrinfo = socket.getaddrinfo
+def _ipv4_only(host, port, family=0, *args, **kw):
+    return _getaddrinfo(host, port, socket.AF_INET, *args, **kw)
+socket.getaddrinfo = _ipv4_only
 
 p = argparse.ArgumentParser()
 p.add_argument("--class", dest="cls", default="TL26B")
@@ -23,7 +29,12 @@ ADDR = "Vilniaus kolegija, Statybos fakultetas, Antakalnio g. 54, Vilnius"
 def call(script, func, args):
     req = urllib.request.Request(BASE + script + "?__func=" + func, data=json.dumps({"__args": args, "__gsh": "00000000"}).encode(),
                                  headers={"Content-Type": "application/json", "User-Agent": "Mozilla/5.0"})
-    return json.load(urllib.request.urlopen(req, timeout=60))
+    for attempt in range(4):
+        try:
+            return json.load(urllib.request.urlopen(req, timeout=60))
+        except Exception as e:
+            if attempt == 3: raise
+            print(f"EduPage nepasiekiamas ({e}), bandau dar karta...", file=sys.stderr); time.sleep(10 * (attempt + 1))
 viewer = call("ttviewer.js", "getTTViewerData", [None, 2026])["r"]["regular"]
 ttnum = str(viewer["default_num"]); ttinfo = next(t for t in viewer["timetables"] if str(t["tt_num"]) == ttnum)
 reg = call("regulartt.js", "regularttGetData", [None, ttnum])
