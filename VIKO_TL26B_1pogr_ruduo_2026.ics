@@ -55,19 +55,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:69a019530b41625aa1b0aab006c5b2c2@viko-sf-tl26b
+UID:1b2e1e344e4dd542b35c96383a3eb6c1@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20260914T154000
 DTEND;TZID=Europe/Vilnius:20260914T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n1 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:15a66bcb835a4e1f8e72289e6a596f74@viko-sf-tl26b
@@ -115,19 +115,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:5a6055f5a658d4d761596f6d01d09b2c@viko-sf-tl26b
+UID:a6d408da06732d62475b316421f248bf@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20260916T135000
 DTEND;TZID=Europe/Vilnius:20260916T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n1 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:5ffe294b1964e62db3272c1253989c7a@viko-sf-tl26b
@@ -143,6 +143,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:e658d7c7a50744a33c8c64038e2c251f@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20260916T173000
+DTEND;TZID=Europe/Vilnius:20260916T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:2478bf4b7fc2eef61acd793c712eaaa6@viko-sf-tl26b
@@ -175,34 +190,49 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:68361bd2ac508904e0f1b832bf4ecbd6@viko-sf-tl26b
+UID:86b7b2cbc9e29d9af43a186541b8ad85@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20260917T173000
+DTEND;TZID=Europe/Vilnius:20260917T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:772041c1f5b8987b19612d5985db91ff@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20260918T080000
 DTEND;TZID=Europe/Vilnius:20260918T093000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n1 paskaita (08:00–09:30)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n1 paskaita (08:00–09:30)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
-UID:9ee3e92024e11afcbcabaa6ad661ee28@viko-sf-tl26b
+UID:feabfee4bb001d4f1c5564091d84aaae@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20260918T095000
 DTEND;TZID=Europe/Vilnius:20260918T112000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n2 paskaita (09:50–11:20)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n2 paskaita (09:50–11:20)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:c4b9d744009ad3460ea9f5c6bb5a7d2a@viko-sf-tl26b
@@ -265,19 +295,34 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:feb4c9c18be9debfe24b651376e9cd1d@viko-sf-tl26b
+UID:c7ee47b3239456232d5abc48b47775ea@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20260921T154000
 DTEND;TZID=Europe/Vilnius:20260921T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n2 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:aa2776d8b7a5cdcd4e717c4e9e4ec680@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20260922T095000
+DTEND;TZID=Europe/Vilnius:20260922T133000
+SUMMARY:Mikroekonomika 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 421\nGrupė
+ : TL26B (visa grupė)\n2–3 paskaitos (09:50–13:30)\n2 savaitė (paga
+ l studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edup
+ age.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 
+ 09. 2026-?)“)
+CATEGORIES:Mikroekonomika 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:bbce465d12bdfbc61a3107eddef354a7@viko-sf-tl26b
@@ -310,19 +355,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:3fac803873b20509b26a71bba707118c@viko-sf-tl26b
+UID:27454fabaa9a41adf413aaf2cca4101a@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20260923T135000
 DTEND;TZID=Europe/Vilnius:20260923T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n2 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:779a4235520b79edf0b547b9363c4a93@viko-sf-tl26b
@@ -338,6 +383,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:ca83117ab2aed2b9e861ee6ca9be4a70@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20260923T173000
+DTEND;TZID=Europe/Vilnius:20260923T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:19a98e482cd2f4f984bef05dcac60e9a@viko-sf-tl26b
@@ -383,6 +443,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
  .org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09.
   2026-?)“)
 CATEGORIES:Transporto sistema
+END:VEVENT
+BEGIN:VEVENT
+UID:78425b23cfc92a5b21175d961efe9026@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20260924T173000
+DTEND;TZID=Europe/Vilnius:20260924T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:5ffafac2b53a4e3b3bac2ab77e29c736@viko-sf-tl26b
@@ -460,19 +535,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:7784715c7fadb71f9517f941f85457fa@viko-sf-tl26b
+UID:4083d26520b6e1fa149f79a0925cdf04@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20260928T154000
 DTEND;TZID=Europe/Vilnius:20260928T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n1 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:93266557666361636d342d36b3acddc3@viko-sf-tl26b
@@ -520,19 +595,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:4f0a2e6f5877841d5adaffaa1fba851f@viko-sf-tl26b
+UID:8b8deab484cedc20a410d3df496936b3@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20260930T135000
 DTEND;TZID=Europe/Vilnius:20260930T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n1 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:604b2755b89cd6b94cae7655610a7768@viko-sf-tl26b
@@ -548,6 +623,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:c754b16c7620d7cf7187f3fb9acfa23d@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20260930T173000
+DTEND;TZID=Europe/Vilnius:20260930T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:e0dd7d72d698d81e737d56fd5cd0cdce@viko-sf-tl26b
@@ -580,34 +670,49 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:2bda412610f56585f59e638be2f693a1@viko-sf-tl26b
+UID:143af96a8652a6500c0be793656835b7@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261001T173000
+DTEND;TZID=Europe/Vilnius:20261001T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7257951eef4e20f7b844e5f6b6b6232@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261002T080000
 DTEND;TZID=Europe/Vilnius:20261002T093000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n1 paskaita (08:00–09:30)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n1 paskaita (08:00–09:30)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
-UID:863996aff734368172f8272806ebca18@viko-sf-tl26b
+UID:4d5428f605c2876d5c6c681c92a016cc@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261002T095000
 DTEND;TZID=Europe/Vilnius:20261002T112000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n2 paskaita (09:50–11:20)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n2 paskaita (09:50–11:20)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:db69896969210fa996fa028ced21be2f@viko-sf-tl26b
@@ -670,19 +775,34 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:12c07deac08bbc705f9b9a0f022846e5@viko-sf-tl26b
+UID:7b9e66567a1c2dd4acb149c28baad2e1@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261005T154000
 DTEND;TZID=Europe/Vilnius:20261005T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n2 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ddc86fcb0caa6cf0167b83f25938744@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261006T095000
+DTEND;TZID=Europe/Vilnius:20261006T133000
+SUMMARY:Mikroekonomika 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 421\nGrupė
+ : TL26B (visa grupė)\n2–3 paskaitos (09:50–13:30)\n2 savaitė (paga
+ l studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edup
+ age.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 
+ 09. 2026-?)“)
+CATEGORIES:Mikroekonomika 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:664c5350e042e61523b642adf3b19b50@viko-sf-tl26b
@@ -715,19 +835,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:261648bea4403b33741d55527c83e8bd@viko-sf-tl26b
+UID:5f55587eceb198c459c08ef95cc0529d@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261007T135000
 DTEND;TZID=Europe/Vilnius:20261007T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n2 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:155a288f213019b3b7a58c7db6f001d7@viko-sf-tl26b
@@ -743,6 +863,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:cc1baaf53ac0cbb3b99d3d4da1a0ddb4@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261007T173000
+DTEND;TZID=Europe/Vilnius:20261007T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:fb5c7ca929c6ee2642c550bb939919d0@viko-sf-tl26b
@@ -788,6 +923,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
  .org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09.
   2026-?)“)
 CATEGORIES:Transporto sistema
+END:VEVENT
+BEGIN:VEVENT
+UID:7e838115b1e777e94132eed528d3a35d@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261008T173000
+DTEND;TZID=Europe/Vilnius:20261008T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:4500e2284ae0bafb3ee725d0ff381d90@viko-sf-tl26b
@@ -865,19 +1015,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:9591e520c07fbfa3d575b2fb469b96c6@viko-sf-tl26b
+UID:ac0ea1a27a1b9e63aa3c8064e27041fe@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261012T154000
 DTEND;TZID=Europe/Vilnius:20261012T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n1 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:b9da591471bdbfb649dcab8959a0917b@viko-sf-tl26b
@@ -925,19 +1075,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:0445a56f65a03b7731e971b58ce29f50@viko-sf-tl26b
+UID:604a05e24ddb3648fa15622a98f58cab@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261014T135000
 DTEND;TZID=Europe/Vilnius:20261014T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n1 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:bd3b18f9aa8457543cbbce979489b36f@viko-sf-tl26b
@@ -953,6 +1103,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:a38a19240a22de1a982621327d01456f@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261014T173000
+DTEND;TZID=Europe/Vilnius:20261014T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:b6c28c5ed60fa914031688294f6e6997@viko-sf-tl26b
@@ -985,34 +1150,49 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:84b2b44c15f1e6ab7618b3ac050ca353@viko-sf-tl26b
+UID:c99677036ee47ce4cfdedaa1535abb60@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261015T173000
+DTEND;TZID=Europe/Vilnius:20261015T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:6177c8015bb96d357bc704aec3f47e5f@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261016T080000
 DTEND;TZID=Europe/Vilnius:20261016T093000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n1 paskaita (08:00–09:30)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n1 paskaita (08:00–09:30)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
-UID:4faee104bee557276223eafbb4d4031b@viko-sf-tl26b
+UID:bdd535f799891c613e633fd6f5a0a1b0@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261016T095000
 DTEND;TZID=Europe/Vilnius:20261016T112000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n2 paskaita (09:50–11:20)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n2 paskaita (09:50–11:20)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:eb62269e60c8f332c0ec648c822de3a6@viko-sf-tl26b
@@ -1075,19 +1255,34 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:2bcdf3335e8f453941d941f79357025a@viko-sf-tl26b
+UID:ef11a506124e891c463ea877e9301808@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261019T154000
 DTEND;TZID=Europe/Vilnius:20261019T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n2 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:b0d06e5e5b859ee2cebd38cc5d1536ba@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261020T095000
+DTEND;TZID=Europe/Vilnius:20261020T133000
+SUMMARY:Mikroekonomika 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 421\nGrupė
+ : TL26B (visa grupė)\n2–3 paskaitos (09:50–13:30)\n2 savaitė (paga
+ l studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edup
+ age.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 
+ 09. 2026-?)“)
+CATEGORIES:Mikroekonomika 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:5c0b1b729bf8dff1142fca5930c1ba45@viko-sf-tl26b
@@ -1120,19 +1315,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:575b06c4a64dd1093f3232df7461a766@viko-sf-tl26b
+UID:85ea80f48d228363907656a97953a36a@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261021T135000
 DTEND;TZID=Europe/Vilnius:20261021T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n2 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:cdff4d9f877f119f961de837017ee7f2@viko-sf-tl26b
@@ -1148,6 +1343,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c7f07df9e9dc93511ab3419ceb068c@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261021T173000
+DTEND;TZID=Europe/Vilnius:20261021T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:d53918ea80f2e014ba9c216fc06486c4@viko-sf-tl26b
@@ -1193,6 +1403,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
  .org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09.
   2026-?)“)
 CATEGORIES:Transporto sistema
+END:VEVENT
+BEGIN:VEVENT
+UID:6d8d2bffa1caa1047a5067d1c2d9b784@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261022T173000
+DTEND;TZID=Europe/Vilnius:20261022T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:5c93e0f7abcd853d7761dbd96904276e@viko-sf-tl26b
@@ -1270,19 +1495,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:2935d9f26f372d6569dad44812eeac37@viko-sf-tl26b
+UID:03cdbec1e346b76fc4f53f7ac0d42017@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261026T154000
 DTEND;TZID=Europe/Vilnius:20261026T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n1 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:ca3f470127804f14d9446c31f105f5c9@viko-sf-tl26b
@@ -1330,19 +1555,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:36fe9ae27c132809965defbfbee720cf@viko-sf-tl26b
+UID:f41a5168815e0a42379e5a0b9e43f386@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261028T135000
 DTEND;TZID=Europe/Vilnius:20261028T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n1 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:1e58de894415ae03102656eff9a3a717@viko-sf-tl26b
@@ -1358,6 +1583,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:65d818915eb5d4bb125c28b009f062e8@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261028T173000
+DTEND;TZID=Europe/Vilnius:20261028T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:68a124accc0f4638b77a0032b8b8d628@viko-sf-tl26b
@@ -1390,34 +1630,49 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:6d052913531139e6d1d4f8ce13f88043@viko-sf-tl26b
+UID:3aeb2bb32bf518d7e0a1566fbe4f3f7f@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261029T173000
+DTEND;TZID=Europe/Vilnius:20261029T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:a8f0cc8ec30588249f8b60024fe87ea8@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261030T080000
 DTEND;TZID=Europe/Vilnius:20261030T093000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n1 paskaita (08:00–09:30)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n1 paskaita (08:00–09:30)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
-UID:9ecc3e5bb340ba9ffb0b860eeb61de2a@viko-sf-tl26b
+UID:5289cb05fedf12b6d09865e3bce5d765@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261030T095000
 DTEND;TZID=Europe/Vilnius:20261030T112000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n2 paskaita (09:50–11:20)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n2 paskaita (09:50–11:20)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:7cb6bdd14d47bdd15957b555cc970833@viko-sf-tl26b
@@ -1480,19 +1735,34 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:50dac40c93ad66d10fe66e10e9bdcb31@viko-sf-tl26b
+UID:5bb5e35d47796f133a15027e52152820@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261102T154000
 DTEND;TZID=Europe/Vilnius:20261102T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n2 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:8173d89606ea5795588b37b010fdf953@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261103T095000
+DTEND;TZID=Europe/Vilnius:20261103T133000
+SUMMARY:Mikroekonomika 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 421\nGrupė
+ : TL26B (visa grupė)\n2–3 paskaitos (09:50–13:30)\n2 savaitė (paga
+ l studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edup
+ age.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 
+ 09. 2026-?)“)
+CATEGORIES:Mikroekonomika 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:193c37dc6aa4151dbe8b0744edaeb78a@viko-sf-tl26b
@@ -1525,19 +1795,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:64bbc31d4a23af043991efae1725da32@viko-sf-tl26b
+UID:b06d7a64e5c0b463d96109716488bbb5@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261104T135000
 DTEND;TZID=Europe/Vilnius:20261104T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n2 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:b116169b7bbeab372bd870dee0998a65@viko-sf-tl26b
@@ -1553,6 +1823,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6aa6f37fec9cea07ebea4839fa3ecb@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261104T173000
+DTEND;TZID=Europe/Vilnius:20261104T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:bb162f5a9090090d9437cb5b990a4e19@viko-sf-tl26b
@@ -1598,6 +1883,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
  .org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09.
   2026-?)“)
 CATEGORIES:Transporto sistema
+END:VEVENT
+BEGIN:VEVENT
+UID:5b54b511738dfc8d3f0ee650280e3b58@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261105T173000
+DTEND;TZID=Europe/Vilnius:20261105T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:b02a74ee4b3a3d72ce2c486d68252cfa@viko-sf-tl26b
@@ -1675,19 +1975,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:f4a70d9c1e764f50ad86ca744acf2237@viko-sf-tl26b
+UID:cb71b7ced86892c221daca2b6e9a27a4@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261109T154000
 DTEND;TZID=Europe/Vilnius:20261109T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n1 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:9d81f80df7704b3203ebe6b3489c81bb@viko-sf-tl26b
@@ -1735,19 +2035,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:94670c58aed97a058ea6cdb8ce7c1903@viko-sf-tl26b
+UID:85585a13c4f859e4705f8ccab9997a71@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261111T135000
 DTEND;TZID=Europe/Vilnius:20261111T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n1 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:f1eafabec731656051dfe957e892320c@viko-sf-tl26b
@@ -1763,6 +2063,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:60cff6759a65b812aded10f8451e0e51@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261111T173000
+DTEND;TZID=Europe/Vilnius:20261111T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:f83b6b4b3eeb91bb11858a7f422282d7@viko-sf-tl26b
@@ -1795,34 +2110,49 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:46725a884714cce7881b95a797b4243e@viko-sf-tl26b
+UID:31f5979c41f91b6ba1ad7af7f77cf7ff@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261112T173000
+DTEND;TZID=Europe/Vilnius:20261112T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:8579c9be6ac66624bb761686cd5e4169@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261113T080000
 DTEND;TZID=Europe/Vilnius:20261113T093000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n1 paskaita (08:00–09:30)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n1 paskaita (08:00–09:30)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
-UID:70a7ce483d900042fd187f9b0e1943cd@viko-sf-tl26b
+UID:bc18d4bf7d7c389bfab8cefaec58967c@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261113T095000
 DTEND;TZID=Europe/Vilnius:20261113T112000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n2 paskaita (09:50–11:20)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n2 paskaita (09:50–11:20)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:d1a0109c55de799e6817f306f87205cf@viko-sf-tl26b
@@ -1885,19 +2215,34 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:0f9696bb516ad14d3e239e09fbe0e4bd@viko-sf-tl26b
+UID:2feb98e5ba18f06af136051baa7e7c1f@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261116T154000
 DTEND;TZID=Europe/Vilnius:20261116T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n2 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a203415a8510f9f90e93a761e6fdf5b@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261117T095000
+DTEND;TZID=Europe/Vilnius:20261117T133000
+SUMMARY:Mikroekonomika 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 421\nGrupė
+ : TL26B (visa grupė)\n2–3 paskaitos (09:50–13:30)\n2 savaitė (paga
+ l studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edup
+ age.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 
+ 09. 2026-?)“)
+CATEGORIES:Mikroekonomika 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:719e1e184021b08634a6c583200ed094@viko-sf-tl26b
@@ -1930,19 +2275,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:aea2a1b134895fa60c34828b3fb521dd@viko-sf-tl26b
+UID:917a624d50a642ddb45afe33f0621806@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261118T135000
 DTEND;TZID=Europe/Vilnius:20261118T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n2 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:f3a20a9b22c68e997f44c664bdfacea9@viko-sf-tl26b
@@ -1958,6 +2303,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:342d00a2aad3f4e802929d03e539c804@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261118T173000
+DTEND;TZID=Europe/Vilnius:20261118T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:8c1c3d494f34e925ea797d916df1949b@viko-sf-tl26b
@@ -2003,6 +2363,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
  .org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09.
   2026-?)“)
 CATEGORIES:Transporto sistema
+END:VEVENT
+BEGIN:VEVENT
+UID:336bdcd8c77fc6f7c914bde973b629d8@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261119T173000
+DTEND;TZID=Europe/Vilnius:20261119T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:217dbf23375cf14ce5f1fb3aa5bfb5ea@viko-sf-tl26b
@@ -2080,19 +2455,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:f013a0600f40d6e131a47a0fc704e485@viko-sf-tl26b
+UID:a7347ed0c73d80b56c3e0a1eeffa2185@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261123T154000
 DTEND;TZID=Europe/Vilnius:20261123T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n1 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:5e0d1298b4b738172526d824064aacbf@viko-sf-tl26b
@@ -2140,19 +2515,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:8de059573835c1ac2fd602a5a079e231@viko-sf-tl26b
+UID:4db0c9e716062915759ff9fd0413437e@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261125T135000
 DTEND;TZID=Europe/Vilnius:20261125T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n1 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:94df6ee2daa80d28c4662620334879cc@viko-sf-tl26b
@@ -2168,6 +2543,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:4a7b1b611d087c2efc8a7ae56c415422@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261125T173000
+DTEND;TZID=Europe/Vilnius:20261125T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:5d9c587f5e9fda3dc1d0e00b3235f972@viko-sf-tl26b
@@ -2200,34 +2590,49 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:bd612a6e0378330523bfa740a3172cc3@viko-sf-tl26b
+UID:8fe9af99495b46ef3b866c0ccaec11ee@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261126T173000
+DTEND;TZID=Europe/Vilnius:20261126T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:d9a5150543154a5efb5ec09169191bcd@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261127T080000
 DTEND;TZID=Europe/Vilnius:20261127T093000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n1 paskaita (08:00–09:30)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n1 paskaita (08:00–09:30)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
-UID:048cb6cf5446098e906fcccc3aa0a57f@viko-sf-tl26b
+UID:50bd20b0fb75a60d0186ef6ece3fc7f6@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261127T095000
 DTEND;TZID=Europe/Vilnius:20261127T112000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n2 paskaita (09:50–11:20)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n2 paskaita (09:50–11:20)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:3d5f8e132460d6b506e7ef57e35a22a6@viko-sf-tl26b
@@ -2290,19 +2695,34 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:fff81e46b16779f5f0f3476a3af4a1e8@viko-sf-tl26b
+UID:2e0355801d50454adf2ab3790f45776d@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261130T154000
 DTEND;TZID=Europe/Vilnius:20261130T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n2 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:c8bd8d47cc1ee7f71b88a2f0424b27b8@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261201T095000
+DTEND;TZID=Europe/Vilnius:20261201T133000
+SUMMARY:Mikroekonomika 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 421\nGrupė
+ : TL26B (visa grupė)\n2–3 paskaitos (09:50–13:30)\n2 savaitė (paga
+ l studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edup
+ age.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 
+ 09. 2026-?)“)
+CATEGORIES:Mikroekonomika 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:885b3438d0f5e7c805d304dbcdb80995@viko-sf-tl26b
@@ -2335,19 +2755,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:83dc30fef5c36ad644799eb25c78818a@viko-sf-tl26b
+UID:7bab9727991307bbc631e1f7ee8b99a0@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261202T135000
 DTEND;TZID=Europe/Vilnius:20261202T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n2 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:8407eb2f9348217307c05b6c117a4591@viko-sf-tl26b
@@ -2363,6 +2783,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:4900dd0662de28d985c42fd6e1a4140e@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261202T173000
+DTEND;TZID=Europe/Vilnius:20261202T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:7355de8e956fd30754c7eb2accacd7cf@viko-sf-tl26b
@@ -2408,6 +2843,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
  .org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09.
   2026-?)“)
 CATEGORIES:Transporto sistema
+END:VEVENT
+BEGIN:VEVENT
+UID:2d5a6f5914be6235fffb66b22c6fe2c6@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261203T173000
+DTEND;TZID=Europe/Vilnius:20261203T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:41c6ea2ee8da6b77c2c064adc89e089a@viko-sf-tl26b
@@ -2485,19 +2935,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:19b8af9b470fc82fc083c4413bdf35a3@viko-sf-tl26b
+UID:0d6d01fceb71b7e405e829b28cc572aa@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261207T154000
 DTEND;TZID=Europe/Vilnius:20261207T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n1 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:086514924c00cc6e21ad94dd3e7051a3@viko-sf-tl26b
@@ -2545,19 +2995,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:5064976af05158120228930f37a394a1@viko-sf-tl26b
+UID:686473141243a042166cdc295add4491@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261209T135000
 DTEND;TZID=Europe/Vilnius:20261209T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n1 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:f2e9eef3e5781badf18b4a61667240ee@viko-sf-tl26b
@@ -2573,6 +3023,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:3e4464a1055a107b16f43e2b03262f44@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261209T173000
+DTEND;TZID=Europe/Vilnius:20261209T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:a18c29f1fb34bb0f33643f6441990175@viko-sf-tl26b
@@ -2605,34 +3070,49 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:d763fa6b5737a7352d85aff9451d499e@viko-sf-tl26b
+UID:a59a75dc2e04375cf1fa4fdcdbca174d@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261210T173000
+DTEND;TZID=Europe/Vilnius:20261210T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:159c804cf7c2fda879ff54a7d5b13c38@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261211T080000
 DTEND;TZID=Europe/Vilnius:20261211T093000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n1 paskaita (08:00–09:30)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n1 paskaita (08:00–09:30)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
-UID:fa6dbc565553ba11595223db20c11070@viko-sf-tl26b
+UID:04579d2626c216f480cb510aa36dc9f3@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261211T095000
 DTEND;TZID=Europe/Vilnius:20261211T112000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n2 paskaita (09:50–11:20)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n2 paskaita (09:50–11:20)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:477b790ec32070b07d4b18660c8aea67@viko-sf-tl26b
@@ -2695,19 +3175,34 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:25388bd67fc04326ece292454d35e2d6@viko-sf-tl26b
+UID:f0e7adf9634acc469aea4ce159d35720@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261214T154000
 DTEND;TZID=Europe/Vilnius:20261214T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n2 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:95f360da0ddfcf5bae08803336f6ae17@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261215T095000
+DTEND;TZID=Europe/Vilnius:20261215T133000
+SUMMARY:Mikroekonomika 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 421\nGrupė
+ : TL26B (visa grupė)\n2–3 paskaitos (09:50–13:30)\n2 savaitė (paga
+ l studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edup
+ age.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 
+ 09. 2026-?)“)
+CATEGORIES:Mikroekonomika 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:cd8512324cc58c5d0cd08449325bd49b@viko-sf-tl26b
@@ -2740,19 +3235,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:90fa9f6b14b07b20a65f57f87daf8f96@viko-sf-tl26b
+UID:f1eddf4e8217189b54b3729b5b81f640@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20261216T135000
 DTEND;TZID=Europe/Vilnius:20261216T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n2 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:3c905d7fbbd5e8d4ccaf003ff157971d@viko-sf-tl26b
@@ -2768,6 +3263,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:669791b97e54dc184d75a16b1818fcb3@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261216T173000
+DTEND;TZID=Europe/Vilnius:20261216T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:33646f034d2c9f379617b4c7a615cc10@viko-sf-tl26b
@@ -2813,6 +3323,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
  .org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09.
   2026-?)“)
 CATEGORIES:Transporto sistema
+END:VEVENT
+BEGIN:VEVENT
+UID:3d6a1af51c839ea2390f9d9ee1211925@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20261217T173000
+DTEND;TZID=Europe/Vilnius:20261217T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n2 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:eed0a4c102fb36f7bd9c08bbbf6d21a1@viko-sf-tl26b
@@ -2890,19 +3415,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Gaidys\nAuditorija: 162\nGrupė: TL
 CATEGORIES:Transporto priemonės
 END:VEVENT
 BEGIN:VEVENT
-UID:a24e4160cdea627aa2cc274c1f1d5eeb@viko-sf-tl26b
+UID:68e998a959782d5f94f520f609318a64@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20270104T154000
 DTEND;TZID=Europe/Vilnius:20270104T171000
-SUMMARY:Transporto priemonės · 504 aud.
+SUMMARY:Transporto priemonės 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 504\nGr
- upė: TL26B\, 1 pogr.\n5 paskaita (15:40–17:10)\n1 savaitė (pagal stu
- dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
- rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
- 026-?)“)
-CATEGORIES:Transporto priemonės
+ upė: TL26B (visa grupė)\n5 paskaita (15:40–17:10)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:4a7eb5c52b929dbaf1eade69a586cc30@viko-sf-tl26b
@@ -2950,19 +3475,19 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 162\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:849a9ab174dd1b94447f6bbdc61163d0@viko-sf-tl26b
+UID:03f175a6a307c8b612bff02e62e5b787@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20270106T135000
 DTEND;TZID=Europe/Vilnius:20270106T152000
-SUMMARY:Verslo pagrindai · 504 aud.
+SUMMARY:Verslo pagrindai 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
- pė: TL26B\, 1 pogr.\n4 paskaita (13:50–15:20)\n1 savaitė (pagal stud
- ijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.or
- g\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 20
- 26-?)“)
-CATEGORIES:Verslo pagrindai
+ pė: TL26B (visa grupė)\n4 paskaita (13:50–15:20)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:a8e01bae39318ccf3aff69eb6f7d3865@viko-sf-tl26b
@@ -2978,6 +3503,21 @@ DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
  rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
  026-?)“)
 CATEGORIES:Transporto priemonės
+END:VEVENT
+BEGIN:VEVENT
+UID:81fae233c6d28ba5120aa961832a272f@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20270106T173000
+DTEND;TZID=Europe/Vilnius:20270106T190000
+SUMMARY:Transporto priemonės 2 pogr. · 421 aud.
+LOCATION:421 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. I. Briuchoveckaja\nAuditorija: 421\nGr
+ upė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal
+  studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupa
+ ge.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 0
+ 9. 2026-?)“)
+CATEGORIES:Transporto priemonės 2 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:e65f0436fa4f7c845f4bc0b94ad4dc35@viko-sf-tl26b
@@ -3010,34 +3550,49 @@ DESCRIPTION:Dėstytojas(-a): lekt. J. Romeikienė\nAuditorija: 502\nGrup
 CATEGORIES:Transporto sistema
 END:VEVENT
 BEGIN:VEVENT
-UID:a9298f67c9c14200e787cecaba770d99@viko-sf-tl26b
+UID:b27e95e40edee3191e22cc5b39e4d3a4@viko-sf-tl26b
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=Europe/Vilnius:20270107T173000
+DTEND;TZID=Europe/Vilnius:20270107T190000
+SUMMARY:Verslo pagrindai 2 pogr. · 504 aud.
+LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
+ g. 54\, Vilnius
+DESCRIPTION:Dėstytojas(-a): lekt. D. Višinskienė\nAuditorija: 504\nGru
+ pė: TL26B (visa grupė)\n6 paskaita (17:30–19:00)\n1 savaitė (pagal 
+ studijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupag
+ e.org\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09
+ . 2026-?)“)
+CATEGORIES:Verslo pagrindai 2 pogr.
+END:VEVENT
+BEGIN:VEVENT
+UID:34e72486a84b62284c87c9ec27fb3a09@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20270108T080000
 DTEND;TZID=Europe/Vilnius:20270108T093000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n1 paskaita (08:00–09:30)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n1 paskaita (08:00–09:30)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
-UID:1f56add79577e6caa72fb20c14869892@viko-sf-tl26b
+UID:7a06bef9d76b8d2afd6b431c6aeb679a@viko-sf-tl26b
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=Europe/Vilnius:20270108T095000
 DTEND;TZID=Europe/Vilnius:20270108T112000
-SUMMARY:Mikroekonomika · 504 aud.
+SUMMARY:Mikroekonomika 1 pogr. · 504 aud.
 LOCATION:504 aud.\, Vilniaus kolegija\, Statybos fakultetas\, Antakalnio 
  g. 54\, Vilnius
 DESCRIPTION:Dėstytojas(-a): lekt. A. Špuraitė\nAuditorija: 504\nGrupė
- : TL26B\, 1 pogr.\n2 paskaita (09:50–11:20)\n1 savaitė (pagal studij
- ų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.org\
- , tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2026
- -?)“)
-CATEGORIES:Mikroekonomika
+ : TL26B (visa grupė)\n2 paskaita (09:50–11:20)\n1 savaitė (pagal stu
+ dijų grafiką: 1 savaitė nuo 2026-08-31)\nŠaltinis: vikostf.edupage.o
+ rg\, tvarkaraštis nr. 14 („NL_ruduo_2026-09-01_atnaujintas (14. 09. 2
+ 026-?)“)
+CATEGORIES:Mikroekonomika 1 pogr.
 END:VEVENT
 BEGIN:VEVENT
 UID:5dc406ff1703eb638c39cb80b15dd161@viko-sf-tl26b
