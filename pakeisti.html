@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="lt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TL26B tvarkaraštis – pakeisti</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 24px 16px 40px; max-width: 520px; margin-inline: auto; line-height: 1.45; }
+  h1 { font-size: 1.3rem; margin: 0 0 4px; }
+  .sub { opacity: .7; margin: 0 0 20px; font-size: .95rem; }
+  .step { border: 1px solid rgba(128,128,128,.35); border-radius: 14px; padding: 14px 16px; margin: 0 0 14px; }
+  .num { display: inline-block; width: 26px; height: 26px; border-radius: 50%; background: #1a73e8; color: #fff; text-align: center; line-height: 26px; font-weight: 700; margin-right: 8px; }
+  .step h2 { font-size: 1.05rem; margin: 0 0 8px; display: flex; align-items: center; }
+  ol { margin: 6px 0 0; padding-left: 20px; }
+  li { margin: 4px 0; }
+  kbd { font-family: ui-monospace, monospace; background: rgba(128,128,128,.18); border-radius: 6px; padding: 1px 6px; }
+  a.btn { display: block; text-align: center; text-decoration: none; padding: 16px 18px; border-radius: 14px; font-weight: 600; font-size: 1.05rem; margin: 10px 0 0; color: #fff; background: #2e7d32; }
+  .ok { color: #2e7d32; font-weight: 600; } .no { color: #c62828; font-weight: 600; }
+  .note { font-size: .88rem; opacity: .8; margin-top: 8px; }
+</style>
+</head>
+<body>
+<h1>Pakeisti importuotą tvarkaraštį</h1>
+<p class="sub">VIKO TL26B · 1 pogrupis · atnaujinta 2026-10-26 (Transporto priemonės perkeltos į ketvirtadienį 17:30, 421 aud.)</p>
+
+<div class="step">
+  <h2><span class="num">1</span>Ištrink senas paskaitas (vienu ypu)</h2>
+  <ol>
+    <li>Atidaryk <b>Samsung Calendar</b> → viršuje <b>🔍 paieška</b>.</li>
+    <li>Įvesk <kbd>aud.</kbd> – parodys visas paskaitas (jų pavadinimuose yra „aud.“).</li>
+    <li>Ilgai paspausk bet kurią paskaitą → viršuje pažymėk <b>Visi</b> → <b>Ištrinti</b>.</li>
+  </ol>
+  <p class="note">Atostogų, sesijos ir kitos visos dienos žymos lieka – jos nepasikeitė, o naujame faile jų nėra, todėl nesidubliuos. Tavo asmeniniai įrašai be „aud.“ pavadinime neliečiami – bet prieš spausdamas „Ištrinti“ pažvelk, ar sąraše tik paskaitos.</p>
+</div>
+
+<div class="step">
+  <h2><span class="num">2</span>Importuok teisingas paskaitas</h2>
+  <a class="btn" href="VIKO_TL26B_1pogr_paskaitos.ics" download="VIKO_TL26B_1pogr_paskaitos.ics">⬇️ Atsisiųsti ir importuoti (203 paskaitos)</a>
+  <ol>
+    <li>Atidaryk atsisiųstą failą → pasirink <b>Calendar</b>.</li>
+    <li>Pasirink tą patį kalendorių, kaip ir pirmą kartą → <b>Importuoti / Išsaugoti</b>.</li>
+  </ol>
+</div>
+
+<div class="step">
+  <h2><span class="num">3</span>Patikrink</h2>
+  <ul style="padding-left:20px;margin:0">
+    <li><span class="ok">Turi būti:</span> ketvirtadienį 10-29, 17:30–19:00 Transporto priemonės · 421 aud.</li>
+    <li><span class="no">Neturi būti:</span> pirmadienį 10-26, 15:40 Transporto priemonės · 504 aud.</li>
+    <li><span class="no">Neturi būti:</span> trečiadieniais 17:30 Transporto priemonės · 421 aud. (tai 2 pogrupio).</li>
+  </ul>
+  <p class="note">Jei matai dublikatus – pakartok 1 žingsnį (ištrins visas paskaitas) ir 2 žingsnį.</p>
+</div>
+
+<p class="note"><a href="./">← Atgal į pagrindinį puslapį</a></p>
+</body>
+</html>

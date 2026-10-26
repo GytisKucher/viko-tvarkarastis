@@ -25,6 +25,7 @@ p.add_argument("--start", default="2026-09-14")
 p.add_argument("--end", default="2027-01-10")
 p.add_argument("--skip", default="2026-12-21:2027-01-03")
 p.add_argument("--alarm", type=int, default=0)
+p.add_argument("--lessons-only", action="store_true")      # be visos dienos zymu (pakartotiniam importui, kad nesidubliuotu)
 p.add_argument("--out", default=os.path.join(os.path.dirname(os.path.abspath(__file__)), "VIKO_TL26B_1pogr_ruduo_2026.ics"))
 a = p.parse_args()
 
@@ -132,7 +133,7 @@ ALLDAY = [
  ("2027-01-11","2027-01-24","Egzaminų sesija (E)","Rudens semestro egzaminų sesija pagal SF studijų grafiką 2026–2027 (2 savaitės). Egzaminų datos skelbiamos atskiru grafiku."),
  ("2027-01-25","2027-01-31","Atostogos / pakartotinis sesijos egzaminų laikymas (AT/P)","Pagal SF studijų grafiką 2026–2027. Pavasario semestras prasideda 2027-02-01."),
 ]
-for s, e, title, desc in ALLDAY:
+for s, e, title, desc in ([] if a.lessons_only else ALLDAY):
     s, e = dt.date.fromisoformat(s), dt.date.fromisoformat(e) + dt.timedelta(days=1)
     uid = hashlib.md5(f"TL26B-allday-{s}-{title}".encode()).hexdigest() + "@viko-sf-tl26b"
     ev.append(vevent([f"UID:{uid}", f"DTSTAMP:{now}", f"DTSTART;VALUE=DATE:{s:%Y%m%d}", f"DTEND;VALUE=DATE:{e:%Y%m%d}", fold(f"SUMMARY:{esc(title)}"), fold(f"DESCRIPTION:{esc(desc)}"), "TRANSP:TRANSPARENT"]))
@@ -142,4 +143,4 @@ tz = "\r\n".join(["BEGIN:VTIMEZONE","TZID:Europe/Vilnius","X-LIC-LOCATION:Europe
 cal = "\r\n".join(["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//VIKO SF TL26B//EduPage ruduo 2026//LT","CALSCALE:GREGORIAN","METHOD:PUBLISH",
   f"X-WR-CALNAME:VIKO {a.cls} ({a.group}) – ruduo 2026","X-WR-TIMEZONE:Europe/Vilnius","X-PUBLISHED-TTL:PT6H", tz] + ev + ["END:VCALENDAR"]) + "\r\n"
 with io.open(a.out, "w", encoding="utf-8", newline="") as f: f.write(cal)
-print(" | ".join(f"nuo {frm}: nr. {v['num']} ({len(v['cards'])} korteles)" for frm, v in versions) + f" | parity={a.parity} | paskaitos: {nlessons} | visos dienos: {len(ALLDAY)} | -> {a.out}")
+print(" | ".join(f"nuo {frm}: nr. {v['num']} ({len(v['cards'])} korteles)" for frm, v in versions) + f" | parity={a.parity} | paskaitos: {nlessons} | visos dienos: {0 if a.lessons_only else len(ALLDAY)} | -> {a.out}")
