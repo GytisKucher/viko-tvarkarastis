@@ -19,8 +19,10 @@ p.add_argument("--parity", choices=["grafikas", "edupage"], default="grafikas")
 p.add_argument("--week1", default="2026-08-31")       # pirmadienis savaites, kuri grafike yra "1 savaite" (parity=grafikas)
 # EduPage tvarkarascio versijos: "nr@galioja_nuo". 13 = pradinis rudens (patikrintas su PDF);
 # 22 = nuo 2026-10-26: 1 pogr. Transporto priemones is Pr 5 p. (504) perkeltos i Kt 6 p. (421).
+# 23 = nuo 2026-11-09: srautai sukeisti - Transporto sistema Pr 4 p., Transporto priemones An 5 p. (162).
+# 25 = nuo 2026-11-18 (1 pogr. paskaitos tokios pat kaip 23).
 # "latest" = EduPage numatytasis (naujausias) tvarkarastis.
-p.add_argument("--versions", default="13@2026-09-14,22@2026-10-26")
+p.add_argument("--versions", default="13@2026-09-14,22@2026-10-26,23@2026-11-09,25@2026-11-18")
 p.add_argument("--start", default="2026-09-14")
 p.add_argument("--end", default="2027-01-10")
 p.add_argument("--skip", default="2026-12-21:2027-01-03")
